@@ -1,0 +1,5 @@
+ttkbootstrap==1.10.1
+reportlab==4.0.4
+matplotlib==3.8.2
+numpy==1.26.4
+setuptools==68.2.2
